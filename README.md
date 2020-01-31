@@ -1,7 +1,14 @@
 # MyCertificates
-It contains various certificates for the program that i have gone through various MOOC
-It is uploaded here solely for my benefits and just offer insight of my knowledge, and ability to learn
-It helps recruiter, and peoples to learn about me better and get insights on my ability
+Hello, this repostitory contains the certificates for the coarses that I had done through various MOOC like udemy, udacity, datacamp, etc
+<br><br>
+<i>This helps me in following ways - </i><br>
+<ul>
+  <li>It show people that i have releavant knowledge</li>
+  <li>It make recruiter and different person understand me and my ability better</li>
+  <li>It shows that i am a self learner</li>
+</ul>
 
-<b><i>Regards</i><b>
-  <strong>Rishav</strong>
+<br>
+<br>
+<b><i>Regards</i></b><br>
+<strong>Rishav Kumar</strong>

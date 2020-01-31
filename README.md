@@ -10,5 +10,5 @@ Hello, this repostitory contains the certificates of the coarses that I had done
 
 <br>
 <br>
-<b><i>Regards</i></b><br>
-<strong>Rishav Kumar</strong>
+<b>Regards</b><br>
+<strong><i>Rishav Kumar</i></strong>
